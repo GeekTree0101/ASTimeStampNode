@@ -5,8 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ASTimeStampNode.svg?style=flat)](https://cocoapods.org/pods/ASTimeStampNode)
 [![Platform](https://img.shields.io/cocoapods/p/ASTimeStampNode.svg?style=flat)](https://cocoapods.org/pods/ASTimeStampNode)
 
-<img src="https://github.com/Geektre0101/ASTimeStampNode/raw/master/res/banner.jpg" />
-<img src="https://github.com/Geektre0101/ASTimeStampNode/raw/master/res/example.gif" />
+<img src="https://github.com/Geektre0101/ASTimeStampNode/blob/master/res/banner.jpg" />
+<img src="https://github.com/Geektre0101/ASTimeStampNode/blob/master/res/example.gif" />
 
 ## Example
 
