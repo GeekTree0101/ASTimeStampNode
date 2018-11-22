@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ASTimeStampNode.svg?style=flat)](https://cocoapods.org/pods/ASTimeStampNode)
 [![Platform](https://img.shields.io/cocoapods/p/ASTimeStampNode.svg?style=flat)](https://cocoapods.org/pods/ASTimeStampNode)
 
+# This Repo will release with Texture 2.8
+
 <img src="https://github.com/GeekTree0101/ASTimeStampNode/blob/master/res/banner.jpg" />
 <img src="https://github.com/GeekTree0101/ASTimeStampNode/blob/master/res/example.gif" />
 
