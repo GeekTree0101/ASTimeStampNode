@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ASTimeStampNode_Tests' do
+  pod 'ASTimeStampNode', :path => '../'
+  
+  
+end
